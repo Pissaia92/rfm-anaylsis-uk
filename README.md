@@ -4,7 +4,8 @@ A clean, interactive dashboard built to segment e-commerce customers based on pu
 
 All analysis was done in Python with Pandas, Plotly, and Streamlit — from data cleaning to visualization.
 
-👉 **Live Demo**: https://huggingface.co/spaces/Pissaia92/Custom-segm-db
+👉 → Link for access: (Hugging Face) ↗ https://huggingface.co/spaces/Pissaia92/Custom-segm-db
+(If the page does not display the elements correctly, change the theme to "light" in the top right corner)
 ---
 ## 📊 What It Does
 
