@@ -23,7 +23,7 @@ All analysis was done in Python with Pandas, Plotly, and Streamlit — from data
    - **Recency**: Days since last purchase
    - **Frequency**: Number of orders
    - **Monetary**: Total spent in GBP (£)
-   -      
+         
 2. **Segmentation**: Scores are combined to define strategic segments.
 3. **Dashboard**: Interactive charts show key metrics, trends, and insights — filter by country or segment.
    
