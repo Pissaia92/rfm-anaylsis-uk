@@ -4,11 +4,12 @@ A clean, interactive dashboard built to segment e-commerce customers based on pu
 
 All analysis was done in Python with Pandas, Plotly, and Streamlit — from data cleaning to visualization.
 
-👉 → Link for access: (Hugging Face) ↗ https://huggingface.co/spaces/Pissaia92/Custom-segm-db
+(If the page does not display the elements correctly, change the theme to "light" in the top right corner.)
 
-(If the page does not display the elements correctly, change the theme to "light" in the top right corner)
+👉 → Link for access: (Hugging Face) ↗ https://huggingface.co/spaces/Pissaia92/Custom-segm-db 
+
 ---
-## 📊 What It Does
+##  What It Does
 
 - Segments customers into key groups: **VIP, Loyal, At Risk, Inactive**
 - Visualizes revenue distribution and customer engagement
@@ -22,9 +23,8 @@ All analysis was done in Python with Pandas, Plotly, and Streamlit — from data
    - **Recency**: Days since last purchase
    - **Frequency**: Number of orders
    - **Monetary**: Total spent in GBP (£)
-   - 
+   -      
 2. **Segmentation**: Scores are combined to define strategic segments.
-
 3. **Dashboard**: Interactive charts show key metrics, trends, and insights — filter by country or segment.
    
    Why This Stands Out
