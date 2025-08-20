@@ -1,34 +1,33 @@
-# Customer Segmentation Dashboard with RFM Analysis
+Customer Segmentation Dashboard 📊
 
-A clean, interactive dashboard built to segment e-commerce customers based on purchasing behavior using the **RFM model** (Recency, Frequency, Monetary). The goal: turn raw transaction data into actionable insights.
+An interactive dashboard for e-commerce customer segmentation based on the RFM (Recency, Frequency, and Monetary Value) model. The goal is to transform raw transaction data into actionable insights for retention and marketing strategies.
 
-All analysis was done in Python with Pandas, Plotly, and Streamlit — from data cleaning to visualization.
+📌 Objective
 
-(If the page does not display the elements correctly, change the theme to "light" in the top right corner.)
+Demonstrate how customer behavior analysis can generate value for online businesses by highlighting potential VIPs, at-risk customers, and revenue recovery opportunities.
 
-👉 → Link for access: (Hugging Face) ↗ https://huggingface.co/spaces/Pissaia92/Custom-segm-db 
+🛠️ Technologies
 
----
-##  What It Does
+Python (Pandas, Polars) – Data cleaning and manipulation
 
-- Segments customers into key groups: **VIP, Loyal, At Risk, Inactive**
-- Visualizes revenue distribution and customer engagement
-- Highlights top 10 customers and retention opportunities
-- Quantifies potential recovery from at-risk clients
-- Runs on any device — no setup needed
----
-##  How It Works
+Plotly – Interactive visualizations
 
-1. **RFM Scoring**: Each customer gets a score (1–5) for:
-   - **Recency**: Days since last purchase
-   - **Frequency**: Number of orders
-   - **Monetary**: Total spent in GBP (£)
-         
-2. **Segmentation**: Scores are combined to define strategic segments.
-3. **Dashboard**: Interactive charts show key metrics, trends, and insights — filter by country or segment.
-   
-   Why This Stands Out
-Not just a chart dump — every visual answers a business question.
-Insights over metrics : Focus on retention ROI, revenue concentration, and risk.
-Honest about limitations : Dataset is limited (12 months, UK-only), and that’s acknowledged.
-Ready for real-world use — could support marketing or CRM decisions.
+Streamlit – Dynamic dashboard
+
+Hugging Face Spaces – Deployment accessible on any device
+
+✨ Features
+
+Automatic customer segmentation into strategic groups (VIP, Loyal, At-Risk, Inactive)
+
+Visualization of revenue distribution and engagement
+
+Highlighting of top 10 customers
+
+Estimate potential recovery with at-risk customers
+
+Filters by country or segment
+
+🔗 Deployment
+
+Available in: Custom-segm-db on Hugging Face
