@@ -30,4 +30,4 @@ Filters by country or segment
 
 🔗 Deployment
 
-Available in: Custom-segm-db on Hugging Face
+Available in https://huggingface.co/spaces/Pissaia92/Custom-segm-db
