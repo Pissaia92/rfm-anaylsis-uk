@@ -31,3 +31,5 @@ Filters by country or segment
 🔗 Deployment
 
 Available in https://huggingface.co/spaces/Pissaia92/Custom-segm-db
+
+(sometimes it asks to restart the space)
